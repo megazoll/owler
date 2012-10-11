@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "symfony/console": "v2.1.2",
+        "fabpot/goutte": "1.0.x-dev"
+    }
+}
