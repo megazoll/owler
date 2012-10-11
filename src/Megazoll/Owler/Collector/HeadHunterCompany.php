@@ -5,7 +5,7 @@ namespace Megazoll\Owler\Collector;
 use Goutte\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
-class HeadHunter
+class HeadHunterCompany
 {
     const START_URL = '/employersList.do';
     const URL_PREFIX = 'http://hh.ru';
